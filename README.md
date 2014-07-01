@@ -1,5 +1,5 @@
 #This is youbike preprocess.
-
+##此版本重製過(2014.7.1)
 ###The data below will delete.
 
     有幾個站是不存在第圖上的，需要刪掉
