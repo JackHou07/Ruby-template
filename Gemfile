@@ -1,1 +1,2 @@
-require 'time_seg'
+source 'https://rubygems.org'
+
